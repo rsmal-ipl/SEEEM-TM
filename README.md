@@ -68,3 +68,12 @@ See documentation/ for more details.
 ## License
 
 MIT
+
+### Current Members
+José Mena (2230396@my.ipleiria.pt) <br>
+Ricardo Malheiro (ricardo.malheiro@ipleiria.pt; rsmal@dei.uc.pt) <br>
+
+### Project
+MERGE: Music Emotion Recognition - Next Generation (https://mir.dei.uc.pt/projects.html#indextag1)
+
+
